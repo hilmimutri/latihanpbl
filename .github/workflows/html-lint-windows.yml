@@ -1,4 +1,4 @@
-name: Cek Kode HTML (Windows)
+name: Cek Kode HTML
 
 on:
   push:
